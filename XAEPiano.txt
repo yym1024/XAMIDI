@@ -1,0 +1,1924 @@
+﻿
+XA 电钢琴用法（继承 flash 键盘钢琴按键规则）：
+	A-G         低音琴键
+	H-N         中音琴键
+	O-U         高音琴键
+	V-Z         超高音琴键
+	Space       延音踏板（可以考虑接两个电脑键盘，其中一个放到脚下踩空格键模拟）
+	+-		八度切换
+刚启动时候默认加载系统音色库，之后可以拖入音色库(.dls)文件到窗口中切换音色库，然后在窗口的组合框中选择该音色库中的音色。
+
+
+梦中的婚礼
+
+MMNNOONNMMJJHHFFLLKKJKLK
+KKLLMMNNLLIIKKJJIIKJ
+JFHJIJ FHJIJ FHKJK FHKJK KJKKLLMLMJ
+QMOQPQ MOQPQ MORQR MORQR RQRRSSTSTQ
+O JJKK IINN IIJJ HHMLM HHII GJIJ
+O OOPP ONML LMLJ O OOPP ONML LMLM
+
+ 
+女儿情
+
+EFHIJGFGEF HIJLMHIJKJ
+JLMLM FJIHI JEFGJFH
+LLMONMLM LLMONMLJ
+EFHIJGFGEF HIJLMHIJKJ
+JLMLM FJIHI JEFGJFH
+
+
+《世上只有妈妈好》Flash键盘钢琴谱
+
+M L J L O M L M 
+
+J L M L J I H F L J I 
+
+I J L L M J I H 
+
+L J I H F H E
+
+
+《北京欢迎你》 Flash键盘钢琴谱
+
+QSQPQPQ QPMOQP 
+
+POMOPQSPQTSMPO 
+
+POMOPQSPQTSSQ 
+
+PQPOSTQ MQPPO 
+
+QSVST TSQQSS QSTVWVSQPSQQ 
+
+QSVST VWVSQSVT QPQSXW VV 
+
+JLJIJIJ JIFHJI
+IHFHIJLIJMLFIH
+IHFHIJLIJMLLJ
+IJIHLMJ EJIIH
+JLOLM MLJJLL JLMOPOLJILJJ
+JLOLM OPOLJLOM JIJLQP OO
+
+《一闪一闪亮晶晶》-----
+
+括号里面的一起按 
+(AH)(AH)(EL)(EL)(CM)(CM)(EL)
+(AK)(AK)(EJ)(EJ)(CI)(CI)(EH)
+(AL)(AL)(EK)(EK)(CJ)(CJ)(EI)
+(AL)(AL)(EK)(EK)(CJ)(CJ)(EI)
+(AH)(AH)(EL)(EL)(CM)(CM)(EL)
+(AK)(AK)(EJ)(EJ)(CI)(CI)(EH)
+
+ 
+
+ 
+
+致爱丽斯 Flash键盘钢琴谱
+
+ 
+
+QPQPQNPOMHJMNJLNOJQPQPQNPOMHJMNJONMNOPQLRQPKQPOJPONNJQQQQPQPQNPOMHJMNJLNOJQPQPQNPOMHJMNJONMORQQPPRTSRQPONMMLMNOPPQRMOPNOPQSPNOPQSPNQQQQQP 
+
+ 
+
+《约定》 Flash键盘钢琴谱
+
+ 
+
+LOPQPOQPLL JMNONMONJL MLLKKOJJPO 
+
+PQRQQPOMP LOPQPOQPNL QMNONMONJL 
+
+MLLKKOPQO MNOMOTSS POSQ QPONOMJM 
+
+OPOTR RQRMNOP QRSSSTO 
+
+SNPO PQMORQRSP POSQ QPONOMJM 
+
+OPOTR RQRMNOP QRSSSTO 
+
+SNPO PQRMRQOPO 
+
+《神秘园》 Flash键盘钢琴谱
+
+jmno no opnmn nomlm lj
+jmno no opnmn nomlm lm
+nost tusrs noqr rsqpq
+nost tusrs strqr rsqpq
+jmno no opnmn nomlm lj
+jmno no opnmn nomlm lm
+
+ 
+
+《青花瓷》Flash键盘钢琴谱
+
+ 
+
+LLJ IJF IJLJ I 
+
+LLJ IJE IJLI H 
+
+HIJLMLJ LJJI I 
+
+HIH IHI IJLJ J 
+
+LLJ IJF IJLJI 
+
+LLJ IJE IJLIH 
+
+HIJ LMLJ LJJII EJIIH 
+
+ 
+
+《想唱就唱》Flash键盘钢琴谱
+
+ 
+
+onopol jkkklj 
+
+onopol lmmmon 
+
+onopqolj opolj 
+
+onopqolo rqpoq 
+
+qrst oopqp 
+
+pqrs srqpq 
+
+qrstss uuvuspq rqrs 
+
+qrst oopqp 
+
+pqs quuqv vuvtsoo tsrqrs ts 
+
+qrst oopqp 
+
+pqrs srqpq 
+
+qrstss uuvuspq rqrs 
+
+qrst oopqp 
+
+pqs quuqv vuvtsoo tsrqrs
+
+ 
+
+《白桦林》   Flash键盘钢琴谱
+
+ 
+
+JKJOMNONMJ
+
+IKIIMIJLNM
+
+MNMTQRSRPQ
+
+QOPQPONJQPM
+
+TQQRRPMPSSTSTQ
+
+QPONjPONMNNNJQPQ
+
+TUVUR PMPSTUQ QOPQP
+
+ONJQPM
+
+ 
+
+《红豆》    Flash键盘钢琴谱
+
+ 
+
+LMPOPOP LMPOPQP LMPOOMPQPO POOML
+
+LMPOPOP LMPOPQP LMPOOMPQPO TSSQP
+
+ 
+
+OPS OPQ QPPOQVUTQ UTST TSRS QPOQP OMQPP
+
+OPS OPQ QPPOQVUVT TXWUSQT QPOP TTSPPQ POO
+
+ 
+
+《小酒窝》    Flash键盘钢琴谱
+
+ 
+
+J JKJI ILIH HMLJ-I J JKLJL LPNO ONMNO-NO
+
+ONONOJL MNONONOPQ MNONONO-Q NMNMNLO
+
+QRQP LOPQ-O-L LQPQPOL LMNO-M-J
+
+NONOPM MLMNQRQRQPPO
+
+LLKKOQQOP LOPQ-O-L LQPQPOL LMNO-M-J JNONOPM
+
+MNOPQRQRQPO POPMOPO POPMNNO
+
+ 
+
+《日不落》  Flash键盘钢琴谱
+
+ 
+
+MOOM PPPOQP
+
+MOOM OOO OM
+
+MOOMPPPOQP MMOOMO
+
+QEEQ T T T T T TS
+
+SSSQ S S S SQ QSSQ
+
+T T T T TS SSSQ S S S SQ
+
+QPPOP QPPOP QPPOO
+
+QQQRQP QPPOP QPPOO
+
+ 
+
+《超级玛丽（高难完整版）》 Flash键盘钢琴谱
+
+ 
+
+(  )中的部分要一起按。_表示休止。-表示延音。
+
+ 
+
+(QL)(QL)-(QL)_(OL)(QL)-(SNL)-__L__
+
+(OJ)-_(LH)__(JE)-_(MH)-(NH)_(NI)(MH)-
+
+[(LH)(QL)(SN)](TO)-(RM)(SN)_(QM)-(OJ)(PK)(NI)-_
+
+(OJ)-_(LH)__(JE)-_(MH)-(NI)_(NH)(MH)-
+
+[(LH)(QL)(SN)](TO)-(RM)(SN)_(QM)-(OJ)(PK)(NI)-_
+
+__(SQ)(RP)(RP)(PN)-(QO)_(LJ)(MK)(OL)_(MH)(OJ)(PK)
+
+__(SQ)(RP)(RP)(PN)-(QO)_(VSR)-(VSR)(VSR)-__
+
+__(SQ)(RP)(RP)(PN)-(QO)_(LJ)(MK)(OL)_(MH)(OJ)(PK)
+
+__(QM)_(PL)_(OJ)______
+
+__(SQ)(RP)(RP)(PN)-(QO)_(LJ)(MK)(OL)_(MH)(OJ)(PK)
+
+__(SQ)(RP)(RP)(PN)-(QO)_(VSR)-(VSR)(VSR)-__
+
+__(SQ)(RP)(RP)(PN)-(QO)_(LJ)(MK)(OL)_(MH)(OJ)(PK)
+
+__(QM)_(PL)_(OJ)______
+
+ 
+
+(OL)(OL)-(OL)_(OL)(PN)-(QL)(OJ)-(MJ)(LH)-__
+
+(OL)(OL)-(OL)_(OL)(PN)(QL)________
+
+(OL)(OL)-(OL)_(OL)(PN)-(QL)(OJ)-(MJ)(LH)-__
+
+(QL)(QL)-(QL)_(OL)(QL)-(SNL)-__L__
+
+(OJ)-_(LH)__(JE)-_(MH)-(NH)_(NI)(MH)-
+
+[(LH)(QL)(SN)](TO)-(RM)(SN)_(QM)-(OJ)(PK)(NI)-_
+
+(OJ)-_(LH)__(JE)-_(MH)-(NI)_(NH)(MH)-
+
+[(LH)(QL)(SN)](TO)-(RM)(SN)_(QM)-(OJ)(PK)(NI)-_
+
+ 
+
+(QM)(OK)-(LJ)__(LJ)-(MK)(RO)-(RO)(MK)-__
+
+[(NL)(TR)(TR)][(TR)(SQ)(RP)](QO)(OM)-(MK)(LJ)-__
+
+(QM)(OK)-(LJ)__(LJ)-(MK)(RO)-(RO)(MK)-__
+
+(NL)(RP)-(RP)[(RP)(QO)(PN)](OL)J-JH-
+
+(QJ)O-(LJ)__L-(MK)(RO)-(RO)(MK)-__
+
+[(NL)(TR)(TR)][(TR)(SQ)(RP)](QO)(OM)-(MK)(LJ)-__
+
+(QM)(OK)-(LJ)__(LJ)-(MK)(RO)-(RO)(MK)-__
+
+(NL)(RP)-(RP)[(RP)(QO)(PN)](OL)J-JH-
+
+ 
+
+(OL)(OL)-(OL)_(OL)(PN)-(QL)(OJ)-(MJ)(LH)-__
+
+(OL)(OL)-(OL)_(OL)(PN)(QL)________
+
+(OL)(OL)-(OL)_(OL)(PN)-(QL)(OJ)-(MJ)(LH)-__
+
+(QL)(QL)-(QL)_(OL)(QL)-(SNL)-__L__
+
+(QM)(OK)-(LJ)__(LJ)-(MK)(RO)-(RO)(MK)-__
+
+[(NL)(TR)(TR)][(TR)(SQ)(RP)](QO)(OM)-(MK)(LJ)-__
+
+(QM)(OK)-(LJ)__(LJ)-(MK)(RO)-(RO)(MK)-__
+
+(NL)(RP)-(RP)[(RP)(QO)(PN)](OL)J-JH-
+
+ 
+
+《亲爱的那不是爱情》   Flash键盘钢琴谱
+
+O O O N M M L M L L K J L
+
+H M M M M L O J J I I H I  
+
+J I H   G H L L
+
+L H M L L L  
+
+M N O O O L K J I H H
+
+O O O   N M M L M L L K J L    
+
+H M M M M L O J J I I H I  
+
+J I H   G H L L  
+
+L H M L L L  
+
+M N O O O L K J I H H  
+
+J J L P Q L N N O M
+
+K K M S R M O O P N
+
+ 
+
+哆啦A梦 主题曲  Flash键盘钢琴谱
+
+ 
+
+looqtqs stsqrqp mppruuts rrrqmnop
+
+looqtqs stsqrqp mppruuts rrrqnopo
+
+ttsrsts pqrps
+
+t-s-r putstsr stq-po
+
+t-s-r putstsr stq-po
+
+ 
+
+《寂寞沙洲冷》 Flash键盘钢琴谱
+
+ 
+
+HHIJJII IJLLJLMMH LLJLMH FHJI
+
+JJJJIJLLLL LLJJJJNOM MNONMMLJIJL IHHFH
+
+JMLLJJILMLJL OOOOMLJ JOOOM PO LLLJML
+
+IHIHIHI JMLLJJIILMLJL JJOOOMPOMJL
+
+JJOOOOPOMO MLJLJ ILJIHFIH
+
+ 
+
+《我也很想他》   Flash键盘钢琴谱
+
+ 
+
+QRSOUSTQS 那时我们总有好多话
+
+QRSOUSQ 什么事都可以讲
+
+TSKJKJH 我的爱情比你早
+
+TSKJKQI 却一直放在心上
+
+QRSOUSTQS 后来你们之间的变化
+
+QRSOUSP 我不想再多说话
+
+ONTUTJTL 经历了相遇和挣扎
+
+ONTNHGH 我还是无法将他放下
+
+F SMNOPMN 那是多久后的事啦
+
+SIJNPO OMOPJO IIIIUIQ 有一天你突然问我 在那个时侯是否也爱着他
+
+NMNMNSSMNI NMNMNNIUME 我也很想他我们都一样 在他的身上曾找到翅膀
+
+LQPPMNP 只是那时的他
+
+X ZXZXMNS 是因为你他开始飞翔
+
+NMNMNSSMNI NMNMNNPNMS 我也很想他在某个地方 我少了尴尬你少了肩膀
+
+SMNONMXR 可夏天还是那么短
+
+OIJFH 思念却很长
+
+HIJFH 我们都一样
+
+ 
+
+分手快乐 Flash键盘钢琴谱
+
+ 
+
+EHHHGHE FGHIHGGH	我无法帮你预言 委曲求全有没有用
+EHGHHHE FGHIKJHI	可是我多么不舍 朋友爱得那么苦痛
+IIIKJIG HHHHIGH 	爱可以不问对错 至少要喜悦感动
+HIJFHHHHE EHJKJIHGHI	如果他总为别人撑伞 你何苦非为他等在雨中
+
+EHHHGHE FGHIHGGHH	泡咖啡让你暖手 想挡挡你心口里的风
+EHGHHHE FGHIKJHII	你却想上街走走 吹吹冷风会清醒的多
+IIIKJIG HHHHIGH 	你说你不怕分手 只有点遗憾难过
+HIJKJIH HLJIH	 	情人节就要来了 剩自己一个
+
+EFHHHF FKJHIJI		其实爱对了人 情人节每天都过
+
+HHIJ HHIJ LJGHHHGH	分手快乐 祝你快乐 你可以找到更好的
+HHIJ HHIJ LJHIIIHFJI	不想过冬 厌倦沉重 就飞去热带的岛屿游泳
+HHIJ HHIJ LLJGHHHHGIH	分手快乐 请你快乐 挥别错的才能和对的相逢
+HHIJ HHIJ LLJHIIIIKJI	离开旧爱 像坐慢车 透彻了心就会是晴朗的
+
+JKJHHFGHIJ		没人能把谁的幸福没收
+JJKLKJHILH		你发誓你会活的有笑容
+JJKLKJHILH		你自信时候真的美多了
+
+ 
+
+《简单爱》Flash键盘钢琴谱
+
+ 
+
+-MO-OM-O L-MO-OM-O M-MO-OM-OLM OM-OP-（OP）-O
+
+说不上为什么我变得很主动，若爱上一个人什么都会值得去做
+
+M-MO-OM-O M-MO-OM-O M-MO-OM-OLM OM-OP-（PO）-O
+
+我想大声宣布对你依依不舍，连隔壁邻居都猜到我现在的感受
+
+O-O-OO O NM-NOO-LO O-O- OO O NM-LL -- KL
+
+河边的风 在 吹着头发飘动，牵着你的手一阵莫名 感动
+
+S-O-OO-SO NM-NO- (OP)-Q RR-(RQ) -Q PS-RR-RQ-(PO)-O
+
+我想带你回我的外婆家 一 起 看着 日 落，一直到我们都睡着
+
+L-OP-QP-QR SS-SR-（QP）-P L-OP-QP-QR SS-ST-S--Q
+
+我想就这样牵着你的手不放开，爱能不能够永远单纯没有悲哀
+
+ 
+
+ 菊次郎的夏天《Summer》 Flash键盘钢琴谱
+
+(L)OPQ POO (L)OPQ POP QQ
+
+(L)OPQ POO (L)OPQ POP SQ
+
+QR SSSS SQO QR SSSS SQO
+
+OP QQQQ QT QPOP
+
+TQPT TQPT TQPT TQPT
+
+QQQRSP PPSUO OPQQ P
+
+SQ QRSSP PSUO OPQS
+
+ZST TTUSRS OPQQ PTQP
+
+OUO SOPO SOPO TOQQRP
+
+OUO SOPO SOPO TOQP
+
+QDQRSP PCRQUPO
+
+TUOUFSTGSQ
+
+ 
+
+《真的爱你》  Flash键盘钢琴谱
+
+ 
+
+EHIJJJJIHI- IJIHHHGHF- HIJJJJIH IIIIHGH
+
+JIHHHHHII JIHHHHJKI
+
+JK-LLLLLKJLL LLMJJIHIJ JIH-HI JIHH
+
+JK-LLLLLKJLL LLMJJIHIJ JIH-HI JIHH
+
+ 
+
+《the truth that you leave》 Flash键盘钢琴谱歌曲：
+
+ 
+
+(AL)(CF)(DH)L-E(AF)LB(CE)(FH)L-FAHA(CH)FH-HFHA(CI)FJDKCM(AS)(CM)(EO)
+
+ 
+
+(FS)HM(EO)SA(CM)(EO)(GS)IM(EQ)RA(CS)FG-HFHACFI-JF-A(CHL)(DHL)(HL)
+
+ 
+
+(HL)I(AI)IA(BHL)(EHL)(HL)(HL)I(AJ)KA(CJ)FH-JCGACFGHJCFA(CFL)(DFL)(FL)
+
+ 
+
+(FL)I(AI)IA(BHIL)(EHIL)(HIL)(HIL)I(JA)KA(CL)FGHI(FJ)KACFGFG(DH)LBABCD(FK)
+
+ 
+
+(BJ)IEBEFG-E-(C;J)A(CK)J;(BI);HACFG-HC-A(CHL)(DHL)(HL)(HL)I(AI)IA(BGL)
+
+ 
+
+(EGL)(GL)(GL)I(AJ)KB(CJ)FGHJ(FM)(CN)(AO)-------D(AOS)(DOS)(FOS)
+
+ 
+
+(HOS)P(DP)PE(BNS)(ENS)(GNS)(INS)P(EQ)RF(CQ)FGHJ(FM)M(AN)(CO)(FN)
+
+ 
+
+(GM)(HJ)H(EI)-D(AOS)(DOS)(FOS)(HOS)P(DP)PE(BNS)(ENS)(GNS)
+
+ 
+
+(INS)P(EQ)RF(CLS)FG-JH(MOQ)A(CMOR)F(GMOQ)MN(DO)
+
+ 
+
+(MS)BFBCDR(BQ)PABEFG-D-(CU)A(CQ)P(;Q)C;PFCF(GJMO)HJF-D(AOS)
+
+ 
+
+(DOS)(FOS)(HOS)(OP)(DOP)(OP)E(BNS)(ENS)(GNS)
+
+ 
+
+(INS)P(EQ)SA(C7QT)FG2JM7(F7QT)-----(OS)(OS)DA(DKO)(FKO)HK(DOS)
+
+ 
+
+(OS)EB(ELP)(GLP)IL(EO)P(AHLOQ)-(HLOQ)(JLOQ)LP(AH)O(FMOQ)C(FMS)
+
+ 
+
+(HMS)JM(FMS)(MS)DA(DMO)(FMO)HM(DMS)(MS)EB(ENP)
+
+ 
+
+(GNP)IQ(ER)QAEHJL(AH)-J(CJ5N)ACJ(;J5N)C(;NS)(NS)DA(DMO)(FMO)HM(DOS)
+
+ 
+
+(OS)EB(ENP)(GNP)IN(EO)P(FMOQ)C(FMOQ)
+
+ 
+
+(HMOQ)J(QTV)FQ(CQSU)AC(ENS)GM(CMS)(MS)DA(DMO)(FMO)HM(DOS)
+
+ 
+
+(OS)EB(ENP)(GNP)IO(EP)(JO)AEHJ-HECA---
+
+ 
+
+QPON(AO)CFGHOFE(ELP)BEG(ILQ)P(EO)N(DKO)ADFH(KO)DJ(EIN)BEG(ILQ)PON(FJMO)CFHJ(JMO)FM(ELP)BE(GPT)I(PS)EM(AMQ)CFGHJGHACFG(FQ)PO(EN)(DKO)ADFH(KO)DL(ELP)BEG(ILQ)P(EO)N(DKO)ADFH(KO)J(CJN)ACE(GLQ)I(CO)N(BKO)ABDF(KO)BL(ELP)BE(GPT)I(PS)EP(A7QT)CFG2J(AM)(C7)(7QT)-----(OS)(OS)DA(DKO)(FKO)HK(DOS)(OS)EB(ELP)
+
+ 
+
+(GLP)IL(EO)P(AHLOQ)-(HLOQ)(JLOQ)LP(AH)O(FMOQ)C(FMS)(HMS)JM(FMS)(MS)DA(DMO)(FMO)HM(DMS)(MS)EB(ENP)
+
+ 
+
+(GNP)IQ(ER)QAEHJL(AH)-J(CJ5N)ACJ(;J5N)C(;NS)(NS)DA(DMO)(FMO)HM(DOS)(OS)EB(ENP)(GNP)IN(EO)P(FMOQ)C(FMOQ)
+
+ 
+
+(HMOQ)J(QTV)FQ(CQSU)AC(ENS)GM(CMS)(MS)DA(DMO)(FMO)HM(DOS)
+
+ 
+
+(OS)EB(ENP)(GNP)IO(EP)(JO)AEHJ-HECA-----(LSZ)(LSZ)DA(DLSV)(FLSV)HL(DLSZ)(LSZ)EB(ELP)(GLP)IL(EO)P(CLQ)A(BLQ)(CLQ)E(LP)AL(FMQ)C(FMS)(HMS)JM(FMZ)(FMZ)DA(DMSV)(FMSV)HM(DMSZ)(MSZ)EB(ELP)(GLP)IQ(ELR)(LQ)CACDE(HJ)A(EH)(CJ5N)ACJ(;5N)C(;LS)(LS)DA(DLO)(FLO)HL(DLS)(LS)EB(ELP)(GLP)IL(EO)
+
+ 
+
+(;P)(FMQ)C(FMQ)(HMQ)J(QV)FQ(CQU)AC(ENS)GN(CNS)(NS)DA(DMO)(FMO)HM(DMS)(MS)EB(ELP)(GLP)I(LO)
+
+ 
+
+(ELP)(LO)CABCE(HJ)CJ(FJMO)CFG(FJMQ)M(ELS)(LS)B(DLO)(FLO)HL(DLS)(LS)EB(ELP)(GLP)-(LO)(ELP)(LO)ABCDEF(EH)I(AEHJ)-------(AS)(BL)(DO)
+
+ 
+
+(FS)-L(AO)SA(BL)(EO)(GS)-L-(AO)A(CO)F(GO)-OC(MO)AC(FNP)G(HOQ)-(NP)B(AS)(BL)(DO)(FS)-L(CO)SA(BL)(EO)(GS)(IWY)(VX)(UW)-(FJ)(JM)(MN)(NO)(OP)QTU-V-
+
+ 
+
+ 
+
+韩雪的飘雪 键盘钢琴谱 Flash键盘钢琴谱
+
+ 
+
+T-U-(VF)-(UH)-(VJ)-UVE-(HU)-(JT)-S-(TD)-(FX)XH---(CU)-(EV)UG-STB-D-F-WUC-E-G-TS
+
+ 
+
+(DT)-F-H-V-(EPSI)-----
+
+ 
+
+M-NOA-E-H-(IL)---H-(IJ)-LLA-(FK)KH-(KM)---F-(KM)-ONA-E-F-(GP)---I-M-NOA-D-(FR)-(HV)---------
+
+ 
+
+(HQ)-(LP)-(OQ)-SPG-L-N--L(DM)-(HO)(OM)EM-L(AJ)-E-(GI)-
+
+ 
+
+NOP(QF)-(PJ)-(QO)-TSCQG-I-QQ(BR)-(FQ)PKOQPE-I-E-
+
+ 
+
+(LN)L(LQ)-P-(JQ)-(LS)PG-L-P-LL(DM)-(HO)(OM)EM-L(AJ)-E-(GI)-
+
+ 
+
+H0 N8 COP(QF)-(PJ)-(QO)-TSCQG-I-QQ(BR)-QPEO--(HO)-H-J-L-O----
+
+ 
+
+(JM)-O-(KS)-O-S---J-R-(Q5)-P-(FP)-(HO)-ONO-E-H-(JM)-O-(IS)-M-(OR)--T(JS)-RQ5PQ-F-J-(OQ)-L-
+
+ 
+
+(EJ)---(JM)---(4T)-O-T-U-(GV)-(4U)-(8T)-9SJ-L-N-T-(F")-(TJ)-(N7QS)-R-(QI)-(OM)-O---H-J-(HM)-O-(GT)-M-8-0T(CU)-G-(IQ)-(5Q)-
+
+ 
+
+(FV)-(JU)VO-(JU)-(EV)-(UJ)-(OT)-(SJ)-(DT)-(XH)X(KM)-(QO)-(LNP)-UV(NW)-UT(TJ)-SS-L-J(FJ)-J-(MQ)R(JS)-(IS)-(MR)-(OR)-T(Sq)jqpo-jmo(sd)-(rh)-r-t(Ct)-(0qj)-(qt)-(pqu)-
+
+ 
+
+( K(FV)-(JU)-(VM)-(JU)VE-(UJ)-(OT)-(SJ)-(DT)-(XH)X(KM)-(QO)-(NP)-UV(NW)-UT(TJ)-SS--(SW)-(MS)---(MQ)(FR)S-(IS)-(MR)-(OR)-(SQ)-(EQ)---(PL)--O(HJO)-H-J-L-(LQ)----
+
+ 
+
+《星语心愿》Flash键盘钢琴谱　
+
+　
+
+TVUTSTQ TSTVUVUTUV　　
+
+VWXXXXW VUTUS TVUTST　　
+
+QSTXWVUV VUTTTTSSTQ　　
+
+SSTXWVUVV VUTTSUT
+
+ 
+
+ 
+
+《会呼吸的痛》Flash键盘钢琴谱
+
+ 
+
+STVTXXTW WWVUVWXWSV VUTUVRRRVVWVSSS SYXWXX STVTXXTW WWVUVWXWSVV VUTUVRRRVVWVSSS STUVVUVV 
+
+ 
+
+《童话》Flash键盘钢琴谱　　
+
+ 
+
+LONOL LONOL LONO OOMML
+LONOL LQPPO LONOM MMOTS
+PPRRQQ QQNPOONO ONOR LSRQP
+PPRRQQ QQVUTUV VPOT TTSSS
+LSRQ QRQ QRQRQPO OQST TTSPPRQ
+OQST TTSPPRQRQPO PQMMOONO
+
+ 
+
+《欢乐颂》 Flash键盘钢琴谱
+
+ 
+
+JJKLLKJI HHIJJII JJKLLKJI HHIJIHH IIJHIJKJ HIJKJIHIE JJKLLKJI HHIJIHH 
+
+ 
+
+《千千阙歌》Flash键盘钢琴谱
+
+ 
+
+HHIJ LMONNNLJ IIIJK MOQPPNLHHIJ LMONNNLJ IIIJK MOQPPNLMLMLMNNMN PPPPNOPQQQPPPOQ NLMLMOPQQPQ QPOP OMM LMOP QQPQ QSTSQQQQPPOPOM QQRQPOP QQ Q PPOP OMOO
+
+ 
+
+《婚礼进行曲》Flash键盘钢琴谱
+
+HKKK HLJK	结婚了吧 傻逼了吧
+HKNNMLKJKL	以后赚钱两个人花了吧
+HKKK HLJK	离婚了吧 傻逼了吧
+HKMOMKILM	以后打炮要买单了吧
+KNMLII JKLL NMLII JKLL HKKK HLJK HKMOMKILMKILMKK
+
+《夜曲》Flash键盘钢琴谱
+
+ 
+
+MN OOOONQQ TTTSRSOO
+
+RRRSQNQP PONOON
+
+OOOONQQ TTTSRSOO
+
+RRR QPNOM
+
+ 
+
+《暗香》Flash键盘钢琴谱
+
+ 
+
+JKJGHJM ONLJ JKJGHJM 
+
+ONLQ MMMOQLKMP PQRPQRQ 
+
+MPQRPQRM MQRSQRSM PQRMR 
+
+SKPQPQRQ 
+
+JKJGHJMONLJ 
+
+JKJGHJMONLM 
+
+ 
+
+《遇见》Flash键盘钢琴谱
+
+ 
+
+LJ LI JIH HGFGHGHIJ 
+
+LJ LP ONO HGFGHGHIH 
+
+LMNONONMLML HIJKJKLHIJ 
+
+LMNONONPOPOQL HIJKJKJIHGH 
+
+LMNONOPONML HIJKJKLHHML 
+
+LMNONOPOPQL, HIJKJKLHHML 
+
+LMNONOPOPQL, HIJIJILHIJH 
+
+LMNONOMNLKL 
+
+JJJKLJEE IIIJKIEE 
+
+HHHIJIGH GFGHG 
+
+FEFML IKJIH 
+
+HGFIIHFFGH 
+
+ 
+
+《波斯猫》Flash键盘钢琴谱
+
+ 
+
+OOOMLMLJJ MMMLJLJII 
+
+OOOMOMOJJ IMJ JL M M M 
+
+ 
+
+《菊花台》Flash键盘钢琴谱
+
+ 
+
+JJIJ JLJIJ HHIJLJ IIHI 
+
+J LJML MLLJL EJIILJIIIHI 
+
+JJIJ JLJIJ HHIJLJ IIHI 
+
+J LJML MLLJL JIJLJIIH 
+
+HIJJLM MQQPOML MLJIH FHIIHI 
+
+HIJJLM MQPOOPO LLJNOHIJIH 
+
+ 
+
+ 
+
+ 
+
+《美丽的神话》 Flash键盘钢琴谱
+
+ 
+
+MQN MOPOQ MTSTSPRQ 
+
+MTSPQRQ O MQPNM 
+
+MQNMOPOQ MTSTSPRQ 
+
+MTSPQRQPO MPONM 
+
+MNOPQONL MOPQQ 
+
+MNOPQONLMOPOO MPONM 
+
+MNOPQONL MOPQQ 
+
+MNOPQONLMOPOO OOPQONLONMNT
+
+ 
+
+《有没有人告诉你》Flash键盘钢琴谱 
+
+ 
+
+JMMMMMMMMJKLK JLLLLLLLMNNJ 
+
+JMMMMMMMMQQP NNNNNJONON 
+
+JMMMMMMMMJKLK ILLLLLLLMNNJ 
+
+JMMMMMMMMQQP NNNNNNNMNM 
+
+
+QTQQQQOMJJQP JSSSSSSSTUUQ 
+
+QTQQQQOMJJQP PPPPPJNNM 
+
+ 
+
+《卡农》　(括号是一起按) 
+
+H-JLO E-ILN F-HJM C-GIL 
+D-FHK A-EHJ D-FHK E-GIL 
+(HQ)-JLO (EP)-GIL (OF)-HJM (NC)-GJL 
+(MD)-FHK (LA)-CEH (MD)-FHK (NE)-GIL 
+ONOH (G B )LIJ (CH)ONM (CN)QST 
+(DR)QPR (QA)PON (DM)LKJ (EI)KJI 
+(EH)IJK (EG)ILK (FJ)MLK (CL)KJI 
+(DH)FMN (AO)NML (DK)JIM LML 
+(SJ)QRS-QR(SE)LMNOPQR 
+(FQ)OPQ-JK(GL)MLKLJKL 
+(FK)MLK-JI(JE)IHIJKLM 
+(FK)MLM-NO(GL)MNOPQRS 
+(SI)QRS-QR(SE)LMNOPQR 
+(FQ)OPQ-JK(GL)MLKLJKL 
+(FK)MLK-JI(EJ)IHIJKLM 
+(FK)MLM-NO(GL)MNOPQRS 
+(HQ)-JLO (EP)-GIL (OF)-HJM (NC)-GJL 
+(MD)-FHK (LA)-CEH (MD)-FHK (NE)-
+
+ 
+
+ 
+
+《月亮代表我的心》Flash键盘钢琴谱
+
+ 
+
+LOQSONQS STUVTS QPOOO QPOOO PQPOMPQP LOQSONQS STUVTS 
+
+POOO QPOOO PQPMNOPO QSQPOSN MNMNMLQ SQPOSN MNOOOPQP LOQSONQS STUVTS 
+
+QPOOO QPOOO PQPMNOPO
+
+ 
+
+《安静》 Flash键盘钢琴谱
+
+ 
+
+QQQQPONPPPO LQPOOOLQPOOP 
+
+QQQQPONPPPO LQPOOOLQPOOPPQR 
+
+RRRRQPOOOPP LSSSRQPPPQQ 
+
+MRQRQPOONOL QRQRQPOPS 
+
+LQRSRQSLQRSRQS LQRSRQOPPPQO 
+
+SSOONOOSSOONOO RRQQPPORRQQPPO 
+
+LQRSRQSLQRSRQS LQRSRQOPPPQO 
+
+SSOONOOSSOONOO RRQQPPOORQPOMOO
+
+ 
+
+《好好恋爱》 Flash键盘钢琴谱
+
+ 
+
+JKLLLLLKJIIL NNONOOOPQNNL 
+
+HMMMJMOLLLLJH KKKJKLMMMOML 
+
+JKJJKLLLLJIHHO NMLML 
+
+JHHMMLLLKJ OOOONOPP 
+
+LRQLLRPLRQRQRQPO ONMMQMQMLLQLQL 
+
+RQRQOP LRQLLRSPLRQQQRQPQ 
+
+ONMMQMQMLLQLQPOM OPNMNMNQPOO
+
+ 
+
+《痴心绝对》 Flash键盘钢琴谱
+
+ 
+
+OPQQQRQPPOPPSP ONOOOQQOOMNNQN 
+
+MLMMMRRQSO MLMMMRROOMP 
+
+OOPQQQRQPPOPPSP ONOOOQQOOMNNQN 
+
+MLMMRRQSO MLMMMRROOONO
+
+ 
+
+《梦里》Flash键盘钢琴谱
+
+ 
+
+qqqqqqpo lmoooomq 
+
+qqqqstsqp lpppppsq 
+
+qqrs oopq llmoqpsq 
+
+qqrs oopq llmoqpoo 
+
+opqrsssrqrss 
+
+ssssvtsq 
+
+qqpo opm moppppqp 
+
+opqrsssrqrss 
+
+ssssvtsq 
+
+qqpo opm mopqqqqpom 
+
+qqqqqqpo lmoooomq 
+
+qqqqstsqp lpppppsq 
+
+qqrs oopq llmoqpsq 
+
+qqrs oopq llmoqpoo 
+
+opqrsssrqrss 
+
+ssssvtsq 
+
+qqpo opm moppppqp 
+
+opqrsssrqrss 
+
+ssssvtsq 
+
+qqpo opm mopqqqqmpqt
+
+ 
+
+《画心》Flash键盘钢琴谱
+
+ 
+
+LJJ IHIILJ LJJIHILmJ LJJIHIHGHIGEF CEF FJIHGEF EEFFHGFEBC CCEFGHEHIJ 
+
+LJJ IHIHGHIGEF CEFFJIHGEF CEFHGFEFC CEFFGHEHIJ LJJ IHIHGHIGEF CEFFJIHGEF 
+
+LJJ IHIHGHIGEF CEFFJIHGEF LJJIHIILJ LJJIHILmJ LJJIHIHGHIGEF CEFFJIHGEF
+
+ 
+
+《雪绒花》Flash键盘钢琴谱
+
+ 
+
+CEI HED CCCDEFE 
+
+CEI HED CEEFGHH 
+
+I EEGFECEH 
+
+FHIHGE 
+
+CEI HED 
+
+CEEFGHH
+
+ 
+
+《隐形的翅膀》Flash键盘钢琴谱
+
+ 
+
+JLOON MLMOJIH HHHOLMLJHI 
+
+JLOON MLMOJIH HHHOLMLJIH
+
+ 
+
+《说好的幸福－周杰伦》Flash键盘钢琴谱
+
+ 
+
+L LLLL LLLL LLORQ QPQP NO PLLMNI LLM NIJMN OKJ KNO PLK LLM NMJ IFG前奏
+
+MNONMNL MLKLJ MNONMNLPP QQRQP 
+
+LMNOO OONOPP PPPPOPLOO OOLOLOO OOOL OLOO OOOP QQQQ QQRQ 中间
+
+OPQ QQQQ QQQQ QQQP PNOP PPPP PPP PQPO OOOO SRRQ QPPO PPOP POPO RQQP POOP RRRR SO QQQQ QQQQ QQQP PNOS SSSS SSSP PQPO OMMO SRRQ QPPO QPLL QPO 高潮
+
+ 
+
+《給我一首歌的时间》Flash键盘钢琴谱
+
+ 
+
+LQQROPOOPQP 
+
+LQQPOOMOMPO 
+
+QQRQPOOMOMPL 
+
+LLMPOOMOMOPP
+
+ 
+
+《最熟悉的陌生人》Flash键盘钢琴谱
+
+ 
+
+PQPQ 
+
+OPQRSRRQQPOP 
+
+PQPQ 
+
+OTSRRQRQPQPO 
+
+OVUUTSQTSSRSRS 
+
+PQRQRV TVWW 
+
+VWXXXXYXXX 
+
+WVVTX 
+
+SSTVVVTS 
+
+SXXXWV 
+
+VVVTW 
+
+VWXXXXYXXX 
+
+WVVWWV 
+
+SSTVVVTSSXXXWVTV
+
+ 
+
+ 
+
+ 
+
+《死了都要爱》Flash键盘钢琴谱
+
+ 
+
+JOOOO PNMLKIJJ KKLM IIJK 
+
+MNMN JOOOO PNMLKIJJ KKLM ONMM
+
+ 
+
+《虫儿飞》Flash键盘钢琴谱
+
+ 
+
+jjjkljii hhhijjgg fji fji fjihh 
+
+jjjkljii hhhijjgg fji fji fjihh 
+
+jil kji lkjklji hfji hfih kjkjh hkjkjhih
+
+ 
+
+《大海》Flash键盘钢琴谱
+
+ 
+
+FEHHHH EFHHIH FHIIII HFIIJI 
+
+JLMMLM LJIJIHF EFHHHHIH 
+
+JLMMMMOMLLML JIHHHHIJ 
+
+JIHHHHOMLLML JLMOOML 
+
+JLMMMMOMLLML JIHHHHLJ 
+
+JIHHHHIJLLJL JLM FJIHH
+
+ 
+
+《天空之城》Flash键盘钢琴谱
+
+MNONOQN LJMLMOLL
+KJKOJ JHOON OONNMN
+ONOQN JMLMHLJ
+JKONOPQOO ONMMNLM
+OPQPQSP LONOQQ
+MNOONOPO LLRQPOQ
+QTSQPO POPSQ
+QTSQPO POPNM
+MNONOQN JMLMHLJ
+
+MNONOQN JMLMOL
+JKJKOJO NKKNN
+MNONOQN JJMLMOL
+JKONOPQO ONMNLM
+OPQPQSP LONOPQ
+MNONOPO LLRQPOQ
+QTTSSQPO OPOPSQ
+QTTSSQPO OPOPNM
+
+
+《梁祝》Flash键盘钢琴谱
+
+ 
+
+LJIH IGFE 
+
+NMNLMKJL IJLIJKJIH 
+
+LGIFHE FHE 
+
+CEFHI FHE 
+
+LOMLJLI 
+
+IJGFEFHICHFEFHE 
+
+JLGIFHE CECEFGIF 
+
+EFHILJIJIHFECH FHFECEFHE 
+
+JLIJIHGFE
+
+ 
+
+《我是真的受伤了》Flash键盘钢琴谱
+
+ 
+
+momqp lnlpo mrqomopo momqp lnlpo momqppopsq momqp
+
+lnlpo lrqomop-po rrqqp psppo rrqqppopqrqq ttsspprqpo
+
+mqoo sqpp--- momqp lnlpo momqppopsq ttttspsppo
+
+mrqomopo---- JKONOPQOO ONMMNLM
+
+ 
+
+《往事难忘》Flash键盘钢琴谱
+
+ 
+
+H HIJ JKL MLJ LKJI KJIH 
+
+H HIJ JKL MLJ LKJI JIH 
+
+LKJI EEKJIH LKJI KJIH 
+
+H HIJ JKL MLJ LKJI JIH
+
+ 
+
+《离家出走》Flash键盘钢琴谱 
+
+ 
+
+STSQP SQPPO OOPQO OPPOQP STSQS VUSQSTS PQRQORQPO SZRQRSTSRQP QRSTS 
+
+VUTUVVVUTUS QRSSTTQPPQRRSSPO ORQRQRRSTS QRTSVV SZZX VQQQPQUUUVTOSTSQ 
+
+RRRPTS VUSSVV SWWU VTVTV ZYX TVWXVW TVUUV TVWXYXYW VUVWVXX UVWUVQQQ QQUUVUV 
+
+TOSTSV TVVUVW XWVSVV SWWU VTVTVZYX TVWXVW TVUTS
+
+ 
+
+《心乱如麻》 Flash键盘钢琴谱
+
+ 
+
+TSRQRSRQ RRVUTSS QTS TSRQRSRQ RRTSVUV WVXWV 
+
+VVUUVWS SQTS RRSQVUV WVXWV SXXXYXWV XXXYXWV SWWVWVXXW 
+
+QSTTSS TVWWVV SZYXVVTTVXYXW SVWXYXVWX WVWVZZ XXTVX XTUVWV QRSTSVWUTS SYXSYXSXYZXVW QSTTSS TVWWVV SZYXVVTTVXYXW SVWXYXVWX WVWVZZ XXTVX XTUVWV
+
+ 
+
+《不能说的秘密》 Flash键盘钢琴谱
+
+ 
+
+EHHH EGGG EHHH EIII EHHH EGGG EHHH EIII EKKKK KJJ KKKLJIHGGH 
+
+ELLLL LKK LLLLLKKJJI EKKKK KJJ KKKLJIHGGIH FHLMH LLLLLKKJJI 
+
+HONOOLLLLKKJ HONOOLLLLPPO HONONMHNMNML HMLMLKKJKLMML 
+
+HONOOLLLLKKJ HONOOLLLLPPO HONONM HNMNML HMLMLKKJKLMML HLHKJ HHLHKJH
+
+ 
+
+《蜗牛》 Flash键盘钢琴谱
+
+ 
+
+J JJKJIJIH HHK KIHHIJ HHL LMLKJK GH EEJ JKJIJH EEH HEHIJKL HONN NONMMNLHKLM MNOPQL EFLK KLKJIHI EEH HEHIJKL HONN NONMMNL HKLM MNOPQL EFLK KJIHHGH
+
+ 
+
+ 
+
+《123木头人》 Flash键盘钢琴谱
+
+ 
+
+LKJJJ III JIHIJO NML MKJKJK IJKONL MLL LKJJJ ILN MNONM J LMK KPOL IJKKJKL J I H
+
+ 
+
+《轨迹》 Flash键盘钢琴谱
+
+ 
+
+qeee reee weewqe qwee eweq hqewqw qeee reee weewqte qwee eweq hqewqw qjqjwq jwqjq q ttqqt qgqrewe ee rewqj wewq qtrewqwet g r eee ereww weqq ett qttrr ewreq qq wEwqw gr eee ereww weqq ett qttrr ewreq qerw jq
+
+ 
+
+《无赖》 Flash键盘钢琴谱
+
+ 
+
+HIJJIJKJIGE FGHHIJJMLJL JLMMMLK JKLLKJ JKKLKHI HIJJIJKJIGE FGHHIJJMLJL JLMMMLK JKLLKJ JKJHIH HHEFGHHIJHE EDDFEDE EFFGJIIHGH HHFEFG EEEJIHHIJHL JJLMMNOLJ JJLMMMKMNMLKLJ JKJKLMLL EJIHHIJHL JJLMMNONJ JJLMMMKMNMLJIH JKJKLMLLJIHH
+
+ 
+
+《海阔天空》 Flash键盘钢琴谱
+
+ 
+
+QPO PQSSSSTS TUVVVVVVUTST 
+
+TSS SQPO QRQPPQPP QPPPOOOO POO 
+
+TUVVVVVVUTSSSQPO 
+
+VVVVWWWVWX XWV 
+
+VVVVWW SSXWV 
+
+VVVVWWWWVUV 
+
+TTUTUV VVWVWX XWXV
+
+ 
+
+《下一站天后》 Flash键盘钢琴谱
+
+ 
+
+QQQSP PSOOOQM RQRTQ RSPPMOP QPQSSPQVUSST RQRSMOQPO 
+
+QSUVUTSS QRSTRRQP POPQSS QTQPOP MOQPPQS 
+
+VUTUT SSOQSS TTTRQP PPUS QQSO QQPPP TQS VUTUTSS OQSS TTTTVUTUVSSQSTSSRMNO
+
+ 
+
+《红河谷》Flash键盘钢琴谱
+
+ 
+
+ehjjjjijih 
+
+ehjhjlkji 
+
+lkjjihijlk 
+
+ffeghijih 
+
+lhjjjijih 
+
+ehjjjlkji 
+
+lkjjihijlkk 
+
+ffegijih
+
+ 
+
+《生日快乐》 Flash键盘钢琴谱
+
+ 
+
+EEFEHG EEFEIH
+
+ 
+
+EELJHGF KKJHIH
+
+ 
+
+《亡灵序曲》变奏和弦版Flash键盘钢琴谱
+
+TQTTUV TUV UTU
+QQVUT TTUTX WVW VUV
+
+WX WVZW WVW VUV QTUUVT
+MJMMNO MNO NMN
+
+JJON(MT)MMNMR QPQ POP
+(QW)R QPT QPQ POP JMNNOM
+TTUUV(TZ)(MT)(OU)(VP)(VP)(MT)
+
+TQTTUV TUV UTU
+QQVUT TTUTX WVW VUV
+
+WX WVZW WVW VUV QTUUVT
+
+MJMMNO MNO NMN
+
+JJON(MT)MMNMR QPQ POP
+
+(QW)R QPT QPQ POP JMNNOM
+
+(OU)(MT)(OU)(QW)(PV)(OU)(MT)
+
+MMOMR QPQ POPS S(TZ)
+
+ 
+
+《一千年以后》Flash键盘钢琴曲谱
+
+ 
+
+OHIJML KJHJI OHIJMNL JM NNNOPON ONOQQ
+
+NMNL MMNOPOPRQPPQO ONOQ NMNLMO
+
+ 
+
+OOOPQRQOQP LOP QPOLP QPONMJN
+
+ 
+
+ONMNOPLQQ QRQOPP LOP QPOLP PQPONMPN
+
+ 
+
+ONMLMOLPO QQRQP OPQPOPOLPO
+
+ 
+
+《男儿当自强》Flash键盘钢琴谱
+
+ 
+
+MOMOMLM
+
+MOMOLMP
+
+QOPS QPQO
+
+PQOPM
+
+OPMOL
+
+MOPOML MOL
+
+MOMLM OPOML
+
+MOLMP QSPQT
+
+QTSRQSQPQ
+
+QSTUTSQ QSTUSTU
+
+TUTSQSTUTSQSP
+
+QPOPSRQSP
+
+PQSTQSQPO MPO
+
+MOPQN NQPNM
+
+MOMLM
+
+MOMLM
+
+QSPQT
+
+ 
+
+《舞娘》Flash键盘钢琴曲谱
+
+ 
+
+KJK JKJK LKJ 
+
+KJK JLK J- 
+
+FKJK JKJK LKJ 
+
+FFGHIHIH.IHIHFF 
+
+MMLLKKJJMJ- 
+
+FMMLLKKJ 
+
+FMMLLKKJJMJ 
+
+FFGHIHIH- 
+
+.IHIHFF 
+
+HH.JJ 
+
+FFLJ 
+
+FFGHJ 
+
+FFGHL 
+
+HH.JJFFLJ- 
+
+FJIHI 
+
+FJIHIJIHF 
+
+IJIHIJIHF 
+
+FJIHIJIHF 
+
+ 
+
+(间奏略) 
+
+MMLLKKJJMI 
+
+FJKJKJKJ 
+
+JKJI
+
+ 
+
+《借口》 Flash键盘钢琴曲谱 
+
+ 
+
+LLJKJKL JLONML 翻着我们的照片，想念若隐若现 
+
+MONOO QOOOLP 去年的冬天，我们笑得很甜 
+
+LLJKJKL JLONML 看着你哭泣的脸，背着我说再见 
+
+MONOO QOOPQP 来不及听见，你已走的很远 
+
+N（NN）ML（MN）P 也许你已经放弃我 
+
+O（OO）NM（NO）Q 也许已经很难回头 
+
+QPPOOLPO 我知道是自己错过 
+
+MNOOONOP PQPQP请在给我一个理由，说你不爱我 
+
+LJLPRQ LJLPRQ 就算是我不懂，能不能原谅我 
+
+LJLPRQPOPQPO 请不要把分手当作你的请求 
+
+MMKQPQP LLJPOPO 我知道坚持要走，是你受伤的借口 
+
+OPQO OPPOPQQPQP 请你回头，我会陪你一直走到最后 
+
+LJLPRQ LJLPRQ 就算没有结果，我也能够承受 
+
+LJLPRQ POPQPO 我知道你的痛是我给的承诺 
+
+MMKQPQP LLJPONO 你说给过我纵容，沉默是因为包容 
+
+OPQO LQPOO 如果要走，请你记得我 
+
+OPQO LQPOO 如果难过，请你忘了我。
+
+ 
+
+《当你孤单想起谁 和弦版》Flash键盘钢琴谱
+
+
+(EJ)K(AL)L(CL)L(EL) (CJ)K(EL)L(GL)L(IL) (HM)N(FO)J(NJ)J(GJ)J-I(EGJ)
+你的心情总在飞 什么事都想去追 想抓住一点安慰
+
+(GL)(DL)K(FK)J(DI)H Q (QL)R(OQ)P(JQO)--(SL)(DL)K(FK)J(HK)L--J(IE)--(X)(SW)
+你总是喜欢在人群中徘徊 你最害怕孤单的滋味 
+
+(EJ)K(AL)L(CL)L(EL)-(CJ)K(EL)L(GL)M(IL)
+你的心那么脆 一碰就会碎
+
+ U(HM)N(FO)J(NJ)J(GJ)J-I(EGJ) J(K) (L) (SL)(DL)K(FK)J(DI)H
+经不起一点风吹 你的身边总是要
+
+Q (QL)R(OQ)P(QO)--(SL)(DL)K(FK)J(HK)L
+许多人陪 你最害怕每天的天黑
+
+(RM)-N (FO)(JO)(WP)O--O(CN)O(SN)(QL)
+但是天总会黑 人总要离别
+
+L(DM)FH(FK)--K(JE)L-J(IE)
+谁也不能永远陪谁
+
+(TM)N (FO)(JO)(WP)O--O(CN)O(SN)(QL) 
+而孤单的滋味 谁都要面对
+
+L(DM)O(FO)O(HO)O-O(QOL)P(PL)O-Q(PGL)-
+不只是你我会感觉到疲惫
+
+(OJ)P(QHO)-(QO)R(JO) (NP)O(LP)-(SP)P(NUP) (QFO)-(JO)P(MO) (NJ)M(NC)-(GQ)N(NSL)
+当你孤单你会想起谁 你想不想找个人来陪
+
+k(KM) PQ(LP)OM--(GL) PQ(EP)OM--(DTM) (WP)X(WEP)V(PT)U (VLA)-
+你的快乐伤悲 只有我能体会 让我再陪你走一回
+
+ 
+
+周华健的《朋友》Flash键盘钢琴谱
+
+ 
+
+Q-(OHIJA)--(PHIJ)-(AHQ)-(OHIJA)--(PHIJ)-(CQ)-(SHIJG)--(SHIJ)-(TGN)-(OFHJA)--(MAC)-(OF)-(PHIJ)--(PHIJ)-(OIB)-(MFHJ)--(MFHJ)-(OIB)-(PHIJB)-Q-(PHIJ)-(OIB)-(PGIL)--(QGIL)-(PE)O(OHIJA)--(PHIJ)-(QHA)O(OHIJ)--(PHIJ)-(QHA)-(SGIJ)--(SGIJ)-(TNG)-(OFHJ)--(MFHJ)-(OF)-(PHIK)--(PHIK)-(OIB)-(MADF)--(LBEG)-M-(OHJLF)CG-H-E-H-(IQ)-(SJ)-(SA)-(SE)-(SHJL)-(TE)-(SG)-E-(TGJL)-(UE)-(VF)-(TJ)-(THJM)-(SF)-(QE)--(QGJL)-(PE)-(OD)-H-(OHJM)-(TF)-(SC)-G-(QFJL)-(PE)-(OBI)-F-(MIFB)-(PDB)-(PE)BEF(QG)I(SL)N(SL)J(SH)E(LS)J(TH)E(SL)JHE(TL)Q(UG)E(VM)J(TH)F(TM)J(SH)F(QL)JGE(QL)J(PG)(OE)(OK)HFD(OK)H(TF)(SD)(SJ)GEC(QJ)G(PE)(OC)(OK)HFD(FB)D(OE)I(OHA)EHIJLOP(DK)HMMOMORT(AHJLO)-
+
+ 
+
+《笑傲江湖》  Flash键盘钢琴谱
+
+ 
+
+JMJ LL-J IJLML J--
+JMJ LL-J IJLML J--
+J JI HHIJ IIIIH MMHIJ
+LMLJI HIIJ IIIH MMHIJ LM-
+QPO P-- OMSSQ P-- 
+MHII ILJ MIJ HIM 
+HML MJIJL M-- M--
+JMJ LL-J IJLML J-- 
+JMJ LL-J IJLML J--
+
+ 
+
+请不要爱我 键盘钢琴谱
+
+ 
+
+(SH) L (QO) S (SI) M (SP) 9 (SJ) N Q 9 S - - 
+
+(SH) L (QO) S (SI) M (SP) 9 (SJ) N Q ST(US) T S [9S9]
+
+(QH) L O Q (9I) M P 9 (SE) I L N (U9) - - -
+
+(SH) L (SO) S S S S - (9I) M (9P) 9 9 U 9 P 
+
+(QH) L (QO) Q Q - Q - (PB) F (MI) N P - - [99]
+
+(SH) L (SO) S S U S - (9`) I (94) 9 9 U 9 P
+
+(QA) E (QH) (QE) (QJ) - Q - (9B) F I 4 (/M)
+
+(UE) I L (UN) (UP) (TN) (SL) (UI) (TI) M P (T9) (WT) (U9) (VP) (WM)
+
+(UC) G J (UL) (VN) U (TL) (SJ) (VA) E U E T E S E
+
+O C F H J - (PM) - 9 B (U`) G (9I) - (P4）
+
+(QA) E H J L S Q U B F (TI) 4 M P (94) (TI)
+
+(SW) B E G I G (NPE) B (SW) B E G (SVI) G (SUE) C
+
+(TB) (TWF) (TWH) (TWJ) (TWL) (TJ) (UH) (VF) (SUC) G J L (SN) L (9J) G
+
+(RB) (PSF) (PSI) (PS4) (SWZE) I (WYL) N (VXA) E H J (XL) (XZ) X
+
+- [ ` G . Z - - (V,) E G I 4 V X T
+
+C G J L (QSN) (QT) (QU) (QS) (QSVA) E H J L - Q -
+
+(9B) F (PI) 4 (9U) F I (T4) (TA) E (SH) J L - 9 -
+
+S B (PE) G (PS) B (PTE) G (9U) B (9WE) G (9X) B (9/E) G
+
+(SC) G J 4 L - - -
+
+ 
+
+ 
+
+ 
+
+　　回到过去 
+
+ 
+
+　　hjjiihgh 
+
+　　hggffecf 
+
+　　feehhjji 
+
+　　ihhhgfe 
+
+　　hjjiihgih 
+
+　　hggffecg 
+
+　　feee 
+
+　　edced 
+
+　　hjji 
+
+　　iiihijji 
+
+　　eghhghml 
+
+　　hihjhhgee 
+
+　　ehihjhkkji 
+
+　　ehijj 
+
+　　jijkkjji 
+
+　　ihjjjiihgh 
+
+　　hihjjjj 
+
+　　hhlljjj 
+
+　　hhiihhhfhfhi 
+
+　　ehigh
+
+ 
+
+　　亲爱的那不是爱情 
+
+ 
+
+　　OOONMMLMLLKJL 
+　　HMMMMLOJJIIHI 
+　　JIHGHLL 
+　　LHMLLL 
+　　MNOOOLKJIHH 
+　　OOONMMLMLLKJL 
+　　HMMMMLOJJIIHI 
+　　JIHGHLL 
+　　LHMLLL 
+　　MNOOOLKJIHH 
+　　JJLPQLNNOM 
+　　KKMSRMOOPN 
+　　LLJPOPQPOJ 
+　　ONLONNLQQRP 
+　　JJLPQLNNOM 
+　　KKMSRMOOPN 
+　　LLJPOPQPOO 
+　　MOSRQPOO
+
+ 
+
+　哆啦A梦 
+
+ 
+
+　　ehhjmjl 
+
+　　lmljkji 
+
+　　fiiknnmlkkjfghi 
+
+　　ehhjmjl 
+
+　　lmljkji 
+
+　　fiiknnmlkkjfgih 
+
+　　mmlklml 
+
+　　ijkil 
+
+　　mlkinmlmlk 
+
+　　lmjih
+
+ 
+
+　　同桌的你 
+
+ 
+
+　　lllljkln 
+
+　　mmmmkml 
+
+　　llllnmlk 
+
+　　kkkkjih 
+
+　　oooolmoq 
+
+　　pppponm 
+
+　　nnnnnopl 
+
+　　nnopono 
+
+　　oooolmoq 
+
+　　pppponm 
+
+　　nnnnnopl 
+
+　　nnopono
+
+ 
+
+ 
+
+　　大海 
+
+ 
+
+　　FEHHHH EFHHIH FHIIII HFIIJI 
+
+　　JLMMLM LJIJIHF EFHHHHIH 
+
+　　JIMMMMOMLLML JIHHHHIJ 
+
+　　JIHHHHOMLLML JLMOOML 
+
+　　JIMMMMOMLLML JIHHHHLJ 
+
+　　JIHHHHIJLLJL JLM FJIHH
+
+ 
+
+　送别　
+
+LJLO MOL　　LHIJ IHI
+LJLO NMOL　　LIJK GH
+MOO NMNO　　MNOMMLJHI
+LJLO NMOL　　LIJK GH
+
+　　天空之城 
+
+ 
+
+　　MNONOQN LJMLMOLL 
+
+　　KJKOJ JHOON OONNMN 
+
+　　ONOQN JMLMHLJ 
+
+　　JKONOPQOO ONMMNLM 
+
+　　OPQPQSP LONOQQ 
+
+　　MNOONOPO LLRQPOQ 
+
+　　QTSQPO POPSQ 
+
+　　QTSQPO POPNM 
+
+　　MNONOQN JMLMHLJ 
+
+　　JKONOPQOO ONMMNLM 
+
+　　
+
+　　梁祝 
+
+ 
+
+　　LJIH IGFE 
+
+　　NMNLMKJL IJLIJKJIH 
+
+　　LGIFHE FHE 
+
+　　CEFHI FHE 
+
+　　LOMLJLI 
+
+　　IJGFEFHICHFEFHE 
+
+　　JLGIFHE CECEFGIF 
+
+　　EFHILJIJIHFECH FHFECEFHE 
+
+　　JLIJIHGFE
+
+ 
+
+ 
+
+ 
+
+M N O N M L J I H G H F L J 如果骄傲没被现实大海冷冷拍下 
+I H I F K I H F J J J K L M N 又怎会懂得要多努力才走得到远方 
+M N O N M L J I H G H F L J 如果梦想不曾坠落悬崖千钧一发 
+I H I F K I H F K J G E K J F 又怎会晓得执着的人拥有隐形翅牓 
+E G M L J J J E G K J I H H 把眼泪装在心上 会开出勇敢的花 
+H G I M L L J J J J L J O N M L M N 可以在疲惫的时光 闭上眼睛闻到一种芬芳 
+O N M L J I H G H F L J 就像好好睡了一夜直到天亮 
+I H I F K I H F K J G E K J F 又能边走着边哼着歌 用轻快的步伐 
+H I J J L L L M N O N M L LJ 沮丧时总会明显感到孤独的重量 
+H H K L M L O H I J I H I JI I 多渴望懂得的人给些温暖借个肩膀 
+H I J J L L L M N O N M J JQ 很高兴一路上我们的默契那么长 
+O N O O O N O O N O O O N N O P 穿过风又绕个弯心还连着 像往常一样 
+O N M ML L H M LK K L 最初的梦想 紧握在手上 
+L M N O M N O H M N O N N N O P 最想要去的地方 怎么能在半路就返航 
+O N M ML L H M LK K L 最初的梦想 绝对会到达 
+L M N N M N O H M N O N N N OP OO 实现了真的渴望 才能够算到过了天堂
+TQTTUV TUV UTU
+QQVUT TTUTX WVW VUV
+
+WX WVZW WVW VUV QTUUVT
+MJMMNO MNO NMN
+
+JJON(MT)MMNMR QPQ POP
+(QW)R QPT QPQ POP JMNNOM
+TTUUV(TZ)(MT)(OU)(VP)(VP)(MT)
+
+TQTTUV TUV UTU
+QQVUT TTUTX WVW VUV
+
+WX WVZW WVW VUV QTUUVT
+
+MJMMNO MNO NMN
+
+JJON(MT)MMNMR QPQ POP
+
+(QW)R QPT QPQ POP JMNNOM
+
+(OU)(MT)(OU)(QW)(PV)(OU)(MT)
+
+MMOMR QPQ POPS S(TZ)

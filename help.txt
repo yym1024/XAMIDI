@@ -1,0 +1,210 @@
+﻿XAMIDI 基本用法详解
+
+枚举类型：
+XAMIDI_INSTRUMENTS_PATCH_PRESET	预设128种GM标准乐器音色（比如钢琴、八音盒、提琴、竖琴等）
+XAMIDI_LOAD_OPTION	加载资源的选项（比如指定从磁盘文件、URL、内存等加载来源）
+XAMIDI_SYNTH_EFFECTS	用于控制合成器的特效标记（比如开启混响特效）
+XAMIDI_VOICE_CALLBACK	用于 XAudio2 回调方法传递给 XAMIDI
+XAMIDI_VOICE_METHOD	用于 XAMIDI 所需调用的 XAudio2 方法
+
+结构体类型：
+XAMIDI_ENGINE_DETAILS	获取 XAMIDI 引擎相关属性（比如最大声道数、最大复音数、最大音轨数）
+XAMIDI_LOAD_MEMORY	从内存加载资源时，需要传入这个结构体的指针。
+XAMIDI_SYNTH_PARAMETERS	创建合成器时指定所需的参数（比如输出声道数、输出采样率、复音数、音轨等）
+XAMIDI_SYNTH_DETAILS	获取合成器相关属性（比如所使用的复音数、缓冲区长度、输出音频格式）
+XAMIDI_SYNTH_WAVESREVERB	波浪混响相关参数
+XAMIDI_SYNTH_ONBUFFER	用于传递到 XAudio2 的 SubmitSourceBuffer 方法中
+XAMIDI_SYNTH_ONSTATE	此结构体数据需要从 XAudio2 的 GetState 中获取
+XAMIDI_TIMBRE_DETAILS	音色相关属性（音色句柄、音色编号、音色名称）
+
+接口类型：
+
+IXAMIDI			XAMIDI 引擎根对象接口
+	GetEngineDetails	获取引擎相关属性
+	LoadTimbreBanks	加载音色库
+	CreateSynthesizer 创建合成器
+	CommitChanges	提交已改变的相关操作（目前暂不支持，所有操作都是立即处理的）
+
+IXAMIDISynthesizer	XAMIDI 合成器接口
+	DestroySynth	销毁合成器对象
+	GetSynthDetails	获取合成器属性
+	GetBufferData	获取内部缓冲区地址
+	GetGroupCount	获取当前所使用的通道组数（每组有独立16个 MIDI 通道，1000个音轨 == 16000个通道）
+	SetGroupCount	获取当前所使用的通道组数（注意：不要超过最大音轨数）
+	DownloadTimbre	下载音色到合成器中
+	GetEnabled		获取合成器激活状态
+	SetEnabled		设置合成器激活状态（此方法会对应的回调到 XAudio2 的 Start 或 Stop 方法，因此不要自行调用 XAudio2 来播放或暂停）
+	GetVolume		获取合成器的音量
+	SetVolume		设置合成器的音量（默认为1，>1表示放大音量，<1表示降低音量，0表示静音）
+	GetEffects		获取合成器的特效状态
+	SetEffects		设置合成器的特效状态（目前只支持波浪混响一种）
+	GetWriteLatency	获取合成器写入到 XAudio2 缓冲区的延迟时间
+	SetWriteLatency	设置合成器写入到缓冲区的延迟时间（默认约55毫秒，最低支持10毫秒，注意：延迟越短虽然响应越快，但稳定性越差）
+	GetWavesReverb	获取波浪混响参数
+	SetWavesReverb	设置波浪混响参数
+	OnVoiceCallback	处理 XAudio2 回调事件（用户需自行把 IXAudio2VoiceCallback 的回调传递给此方法，以便合成器的正确工作）
+	GetReferenceClock	获取参考时钟对象（MIDI 消息合成到波形音频的时间需要此时钟控制）
+	OutShortMsg		输出单个 MIDI 消息到合成器（用于类似于 winmm 的 midiOutShortMsg）
+
+IXAMIDITimbreBanks	XAMIDI 音色库接口
+	DestroyBanks	销毁音色库对象
+	GetTimbreCount	获取音色数量
+	GetTimbreDetails	获取音色相关属性
+	GetPatchTimbre	通过音色编号来获取音色句柄
+	IndexOfTimbre	通过下标来获取音色句柄
+
+IXAMIDITimbreDownloaded	XAMIDI 已下载音色接口
+	UnloadTimbre	卸载音色对象（调用后会将音色从合成器中卸载，并释放此对象）
+	GetPatch		获取音色编号
+	GetTimbre		获取音色句柄
+
+IXAMIDISynthCallback	XAMIDI 合成器回调接口
+	OnSynthError	合成器错误
+	OnVoiceDetails	查询 IXAudio2SourceVoice 的相关属性（用户需自行在回调中调用 GetVoiceDetails 方法）
+	OnVoiceMethod	调用 IXAudio2SourceVoice 的相关方法（比如 Start、Stop、FlushSourceBuffers）
+	OnSubmitBuffer	提交缓冲区到 IXAudio2SourceVoice 中（注意：请将 XAUDIO2_BUFFER 的 pContext 成员设置为此回调的参数）
+	OnGetState		获取 IXAudio2SourceVoice 的播放状态和播放进度（合成器需要根据这些来决定合成后的波形输出位置）
+
+IReferenceClock		参考时钟接口
+	GetTime		获取参考时间（单位为100纳秒，目前是基于系统运行时间）
+	AdviseTime		暂不支持
+	AdvisePeriodic	暂不支持
+	Unadvise		释放由 AdviseTime 或 AdvisePeriodic 分配的事件 Cookie
+
+全局函数：
+XMIDIMakePatch		构建旋律乐器的音色编号（由 MIDI 的 MSB、LSB 和乐器编号 组成）
+XMIDIMakeDrumPatch	构建打击乐器的音色编号（由 MIDI 的 MSB、LSB 和乐器编号 组成）
+XAMIDICreate		创建 XAMIDI 引擎实例
+
+辅助类封装：
+
+CXAMIDISynthVoice		XAMIDI 合成器与 XAudio2 语音关联辅助类模板
+	构造函数		需传入 IXAudio2 和 IXAMIDI
+	Initialize		初始化（需传入创建 IXAMIDISynthesizer 和 IXAudio2SourceVoice 的相关参数）
+	Start			开始播放并激活合成器
+	Stop			停止播放并暂停合成器
+	GetXAudio2		获取所关联的 XAudio2 引擎
+	GetXAMIDI		获取所关联的 XAMIDI 引擎
+	GetSourceVoice	获取使用中的 XAudio2 源语音
+	GetSynthesizer	获取使用中的 XAMIDI 合成器
+
+CXAMIDISynthVoice 用法：
+	CXAMIDISynthVoice<任意基类>	通过模板语法来让辅助类模板继承并友元到用户自己实现类上
+	CXAMIDISynthVoice<> 或 CXAMIDISynthVoice<void> 表示此辅助类模板不继承和友元任何类
+	CXAMIDISynthVoice<IUnknown>	让辅助类模板继承COM接口可以增加计数引用功能
+	class MyBase { virtual ~MyBase() = 0 {}; };
+	CXAMIDISynthVoice<MyBase>	给辅助类模板增加虚析构函数，这样可以保证更加安全的 delete 操作。
+
+用法示例：
+
+// 所需包含的头文件
+#include <Windows.h>
+#include "XAMIDIHelper.hpp"
+
+// 所需链接的库文件
+#pragma comment(lib, "XAudio2")
+#pragma comment(lib, "XAMIDI")
+
+// COM 错误处理
+#define FAILED_LEAVE(_HR_) if FAILED(hr = (_HR_)) __leave
+
+// 主函数（程序入口）
+int main()
+{
+	HRESULT hr;
+	IXAudio2 *pxa = nullptr;
+	IXAMIDI *pxm = nullptr;
+	IXAudio2MasteringVoice *pxamv = nullptr;
+	IXAMIDITimbreBanks *pxatb = nullptr;
+	CXAMIDISynthVoice<> *pxamsv = nullptr;
+	IXAMIDISynthesizer *pSynth = nullptr;
+	IXAMIDITimbreDownloaded *pxamtd = nullptr;
+
+	// 初始化COM
+	if FAILED(hr = CoInitialize(nullptr)) return hr;
+	__try {
+		// 初始化（虽然初始化过程比 winmm 的 midiOutOpen 麻烦多了，但是功能要比它强大很多）
+		FAILED_LEAVE(XAudio2Create(&pxa));	// 创建 XAudio 实例
+		FAILED_LEAVE(XAMIDICreate(&pxm));	// 创建 XAMIDI 实例
+		FAILED_LEAVE(pxa->CreateMasteringVoice(&pxamv));	// 创建主缓冲区
+		hr = pxm->LoadTimbreBanks(&pxatb, XAMIDI_FILEPATH, L"gm.dls");				// 加载自己的音色库文件
+		if FAILED(hr) FAILED_LEAVE(pxm->LoadTimbreBanks(&pxatb, XAMIDI_DEFAULT));	// 失败则加载系统音色库
+		pxamsv = new(std::nothrow) CXAMIDISynthVoice<>(pxa, pxm);		// 通过辅助类快速创建 XAudio 与 XAMIDI 交互的对象
+		if (!pxamsv) FAILED_LEAVE(E_OUTOFMEMORY);
+
+		// 合成器初始参数设置
+		XAMIDI_SYNTH_PARAMETERS xasp;
+		xasp.Flags = 0;
+		xasp.Effects = XAMIDI_EFFECT_REVERB;				// 启用混响特效（此特效特别对钢琴声的表现很好，可以模拟类似琴弦共鸣的效果）
+		xasp.OutputChannels = XAMIDI_DEFAULT_CHANNELS;		// 输出到 XAudio 的声道数（1为单声道，2为立体声，1一般用于3D音效生成动态立体声(适用于游戏)，2一般是用于 midi 自身的静态立体声(适用于播放器)）
+		xasp.OutputSampleRate = XAMIDI_DEFAULT_SAMPLERATE;	// 输出到 XAudio 的采样率（支持 11025Hz(低音质)、22050Hz(中音质)、44100Hz(高音质) 三种，默认为中等音质）
+		xasp.VoiceCount = XAMIDI_DEFAULT_VOICES;			// 复音数（允许同时播放多少个 MIDI 音符，默认是32个，最大支持1000个）
+		xasp.GroupCount = XAMIDI_DEFAULT_GROUPS;			// 组数（每个组独立拥有16个 MIDI 通道，默认为2个，最大支持1000个）
+
+		// 设置 XAMIDI 输出 XAudio2 的目标（必须是主缓冲区或子缓冲区，源缓冲区已封装在辅助类内部）
+		XAUDIO2_SEND_DESCRIPTOR xasd = { 0, pxamv, };
+		XAUDIO2_VOICE_SENDS xavs = { 1, &xasd, };
+		FAILED_LEAVE(pxamsv->Initialize(&xasp, &xavs));		// 初始化辅助交互对象
+		pSynth = pxamsv->GetSynthesizer();					// 获取合成器对象（我们需要通过它来实现midi输出）
+		FAILED_LEAVE(pSynth->SetVolume(2));					// 设置 XAMIDI 合成器的音量大小（0表示静音，1表示原声，<1表示降低音量，>1表示放大音量，目前最大支持10倍音量）
+
+		// 获取音色并下载音色到合成器中
+		if (HXAMIDITimbre hTimbre = pxatb->GetPatchTimbre(XMIDIMakePatch(0, 0, XAMIDI_PATCH_PRESET_OrchestralHarp)))
+			FAILED_LEAVE(pSynth->DownloadTimbre(&pxamtd, 0, hTimbre));
+
+		// 初始化完后就可以开始输出 MIDI 消息了（XAMIDI 内部则会把 MIDI 消息转换为 XAudio2 所支持的波形音频流）
+		const UINT32 Group = 1;		// 通道组：1～xasp.GroupCount（0 表示全局组，对所有组的当前通道产生相同的结果）
+		const UINT32 Channel = 0;	// 通道：0～15（通道9 默认为打击乐器通道）
+
+		REFERENCE_TIME rt;
+		DWORD ms = 0;
+		FAILED_LEAVE(pSynth->SetEnabled(TRUE));			// 开始 MIDI 合成
+		auto pRefClock = pSynth->GetReferenceClock();	// 获取合成器的时钟对象
+		FAILED_LEAVE(pRefClock->GetTime(&rt));			// 获取当前时间
+
+		// 菊（do）
+		FAILED_LEAVE(pSynth->OutShortMsg(0x7F3C90 | Channel, Group, rt + ms * 10000I64));
+		ms += 500;		// 持续时间
+		FAILED_LEAVE(pSynth->OutShortMsg(0x003C80 | Channel, Group, rt + ms * 10000I64));
+
+		// 花（re）
+		FAILED_LEAVE(pSynth->OutShortMsg(0x7F3E90 | Channel, Group, rt + ms * 10000I64));
+		ms += 0x200;		// 持续时间
+		FAILED_LEAVE(pSynth->OutShortMsg(0x003E80 | Channel, Group, rt + ms * 10000I64));
+
+		// 残（mi）
+		FAILED_LEAVE(pSynth->OutShortMsg(0x7F4090 | Channel, Group, rt + ms * 10000I64));
+		ms += 0x3A0;		// 持续时间
+		FAILED_LEAVE(pSynth->OutShortMsg(0x004080 | Channel, Group, rt + ms * 10000I64));
+
+		// 满（mi）
+		FAILED_LEAVE(pSynth->OutShortMsg(0x7F4090 | Channel, Group, rt + ms * 10000I64));
+		ms += 0x200;		// 持续时间
+		FAILED_LEAVE(pSynth->OutShortMsg(0x004080 | Channel, Group, rt + ms * 10000I64));
+
+		// 地（so）
+		FAILED_LEAVE(pSynth->OutShortMsg(0x7F4390 | Channel, Group, rt + ms * 10000I64));
+		ms += 0x200;		// 持续时间
+		FAILED_LEAVE(pSynth->OutShortMsg(0x004380 | Channel, Group, rt + ms * 10000I64));
+
+		// 伤（la）
+		FAILED_LEAVE(pSynth->OutShortMsg(0x7F4590 | Channel, Group, rt + ms * 10000I64));
+		ms += 0x3A0;		// 持续时间
+		FAILED_LEAVE(pSynth->OutShortMsg(0x004580 | Channel, Group, rt + ms * 10000I64));
+
+		// 等待播放完成后再停止 MIDI 合成
+		Sleep(ms + 0x100);
+		hr = S_OK;
+	}
+	__finally {
+		// 释放对象操作（注意：delete 语句会自行检测是否空指针，而调用对象释放方法则必须自己手动检测）
+		if (pSynth && pSynth->GetEnabled()) pSynth->SetEnabled(FALSE);	// 停止 MIDI 合成
+		if (pxamtd) pxamtd->UnloadTimbre();	// 卸载并释放音色
+		delete pxamsv;		// 释放辅助对象（里面会自动释放 XAMIDI 合成器 和 XAudio2 源缓冲区）
+		if (pxamv) pxamv->DestroyVoice();	// 释放 XAudio2 主缓冲区
+		if (pxm) pxm->Release();			// 释放 XAMIDI 引擎
+		if (pxa) pxa->Release();			// 释放 XAudio2 引擎
+		CoUninitialize();	// 释放 COM
+	}
+	return hr;			// 返回错误码
+}
